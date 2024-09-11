@@ -5,7 +5,7 @@ I’m excited to share a recent project where I used Python and Python libraries
 
 Analyzed Zomato's restaurant dataset to uncover key insights into restaurant ratings, pricing, and popular cuisines across different cities, using Python’s powerful data analysis and visualization libraries.
 
-Technologies Used:
+*Technologies Used*:
 
 Pandas: For data cleaning, manipulation, and analysis.
 
