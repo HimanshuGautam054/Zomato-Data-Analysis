@@ -8,11 +8,15 @@ Analyzed Zomato's restaurant dataset to uncover key insights into restaurant rat
 Technologies Used:
 
 Pandas: For data cleaning, manipulation, and analysis.
+
 NumPy: For numerical computations and efficient data handling.
+
 Matplotlib & Seaborn: For creating visually appealing and insightful data visualizations.
+
 
 Key Highlights of the Project:
 
 Data Cleaning and Preparation: Cleaned the raw data by handling missing values, correcting data types, and removing duplicates to ensure accurate analysis.
+
 Exploratory Data Analysis (EDA): Used Pandas and NumPy to explore the dataset, identify trends, and summarize key metrics such as average ratings, cost for two, and the distribution of restaurant types.
 
