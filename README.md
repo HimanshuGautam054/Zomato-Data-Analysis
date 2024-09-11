@@ -22,6 +22,11 @@ Exploratory Data Analysis (EDA): Used Pandas and NumPy to explore the dataset, i
 
 
 **I recently had the opportunity to dive deep into some advanced Python questions, and I wanted to share my visualization with my network:**
-**Q1** What type of restaurant do the majority of customers order from?
+**Q1)** What type of restaurant do the majority of customers order from?
+**Q2)** How many votes has each type of restaurant received from customers?
+**Q3)** What are the ratings that the majority of restaurants have received?
+**Q4)** Zomato has observed that most couples order most of their food online. What is their
+average spending on each order?
+**Q5)**  Which mode (online or offline) has received the maximum rating?
 
 
