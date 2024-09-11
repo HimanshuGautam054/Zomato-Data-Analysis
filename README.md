@@ -22,5 +22,6 @@ Exploratory Data Analysis (EDA): Used Pandas and NumPy to explore the dataset, i
 
 
 **I recently had the opportunity to dive deep into some advanced Python questions, and I wanted to share my visualization with my network:**
+**Q1** What type of restaurant do the majority of customers order from?
 
 
