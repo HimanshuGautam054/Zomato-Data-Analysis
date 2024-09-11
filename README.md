@@ -21,6 +21,6 @@ Data Cleaning and Preparation: Cleaned the raw data by handling missing values, 
 Exploratory Data Analysis (EDA): Used Pandas and NumPy to explore the dataset, identify trends, and summarize key metrics such as average ratings, cost for two, and the distribution of restaurant types.
 
 
-I recently had the opportunity to dive deep into some advanced Python questions, and I wanted to share my visualization with my network:
+**I recently had the opportunity to dive deep into some advanced Python questions, and I wanted to share my visualization with my network:**
 
 
