@@ -1,7 +1,7 @@
 # Zomato-Data-Analysis
 Hello, Github community
 
-I’m excited to share a recent project where I used Python and Python libraries to Zomato Dataset
+I’m excited to share a recent project where I used Python and Python libraries on Zomato Dataset
 
 Analyzed Zomato's restaurant dataset to uncover key insights into restaurant ratings, pricing, and popular cuisines across different cities, using Python’s powerful data analysis and visualization libraries.
 
