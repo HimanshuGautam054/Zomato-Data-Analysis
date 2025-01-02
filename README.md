@@ -22,6 +22,7 @@ Analyzed Zomato's restaurant dataset to uncover key insights into restaurant rat
 
 
 **I recently had the opportunity to dive deep into some advanced Python questions, and I wanted to share my visualization with my network:**
+
 **Q1)** What type of restaurant do the majority of customers order from?
 
 **Q2)** How many votes has each type of restaurant received from customers?
